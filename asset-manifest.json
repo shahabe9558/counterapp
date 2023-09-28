@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shahabe9558/counterapp.git/static/css/main.477f152b.css",
+    "main.js": "/shahabe9558/counterapp.git/static/js/main.b6b252d9.js",
+    "index.html": "/shahabe9558/counterapp.git/index.html",
+    "main.477f152b.css.map": "/shahabe9558/counterapp.git/static/css/main.477f152b.css.map",
+    "main.b6b252d9.js.map": "/shahabe9558/counterapp.git/static/js/main.b6b252d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.477f152b.css",
+    "static/js/main.b6b252d9.js"
+  ]
+}
